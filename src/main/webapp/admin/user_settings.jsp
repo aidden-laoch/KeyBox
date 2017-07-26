@@ -37,7 +37,7 @@
         }
     </style>
 
-    <title>KeyBox - Set Admin Password</title>
+    <title>Sabre-TOC - Set Admin Password</title>
 </head>
 <body>
 
