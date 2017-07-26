@@ -20,7 +20,7 @@
 <html>
 <head>
     <jsp:include page="_res/inc/header.jsp"/>
-    <title>KeyBox - Error</title>
+    <title>Sabre-TOC - Error</title>
 </head>
 <body>
 
@@ -29,7 +29,7 @@
 
         <div class="navbar-header">
             <div class="navbar-brand" >
-                <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="keybox"/></div>
+                <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="Sabre-TOC"/></div>
             </div>
             <div class="navbar-brand">
                 KeyBox
