@@ -44,7 +44,7 @@
             <div class="navbar-header">
                 <div class="navbar-brand" >
                     <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="Sabre-TOC"/></div>
-                 KeyBox</div>
+                 Sabre-TOC</div>
             </div>
             <!--/.nav-collapse -->
         </div>
