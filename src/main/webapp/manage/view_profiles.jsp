@@ -86,7 +86,7 @@
         </script>
     </s:if>
 
-    <title>KeyBox - Manage System Profiles</title>
+    <title>Sabre-TOC - Manage System Profiles</title>
 </head>
 <body>
 
