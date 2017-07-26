@@ -32,7 +32,7 @@
                 <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="Sabre-TOC"/></div>
             </div>
             <div class="navbar-brand">
-                KeyBox
+                Sabre-TOC
             </div>
         </div>
         <!--/.nav-collapse -->
