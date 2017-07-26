@@ -34,7 +34,7 @@
         });
 		
     </script>
-    <title>KeyBox - Login </title>
+    <title>Savre-TOC - Login </title>
 </head>
 <body>
 
@@ -43,7 +43,7 @@
 
             <div class="navbar-header">
                 <div class="navbar-brand" >
-                    <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="keybox"/></div>
+                    <div class="nav-img"><img src="<%= request.getContextPath() %>/img/keybox_40x40.png" alt="Sabre-TOC"/></div>
                  KeyBox</div>
             </div>
             <!--/.nav-collapse -->
