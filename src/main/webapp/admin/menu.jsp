@@ -23,7 +23,7 @@
     <jsp:include page="../_res/inc/header.jsp"/>
 
 
-    <title>KeyBox - Main Menu</title>
+    <title>Sabre-TOC - Main Menu</title>
 
     <script type="text/javascript">
         $(document).ready(function() {
