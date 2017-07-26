@@ -72,7 +72,7 @@
         </script>
     </s:if>
 
-    <title>KeyBox - Manage Scripts</title>
+    <title>Sabre-TOC - Manage Scripts</title>
 
 </head>
 <body>
